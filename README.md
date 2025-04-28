@@ -1,12 +1,12 @@
 # Project 1: Global Layoffs Data Analysis
 
 ## Overview
-Cleaned and analyzed global tech layoffs data to uncover patterns by company, industry, country, and year.
+Cleaned and analysed global tech layoffs data to uncover patterns by company, industry, country, and year.
 
 ## Key Steps
 - **Data Cleaning**:
   - Removed duplicates with `ROW_NUMBER()`.
-  - Standardized text fields (industries, countries).
+  - Standardised text fields (industries, countries).
   - Converted string dates to proper `DATE` format.
   - Handled missing values and deleted unusable records.
 - **Exploratory Analysis**:
@@ -26,7 +26,7 @@ Cleaned and analyzed global tech layoffs data to uncover patterns by company, in
 # Project 2: Walmart Sales Data Analysis
 
 ## Overview
-Analyzed Walmart transactional sales data, performed feature engineering, and derived business insights.
+Analysed Walmart transactional sales data, performed feature engineering, and derived business insights.
 
 ## Key Steps
 - **Feature Engineering**:
@@ -34,7 +34,7 @@ Analyzed Walmart transactional sales data, performed feature engineering, and de
 - **Exploratory Analysis**:
   - Revenue and sales breakdown by product line, city, payment method, and customer type.
   - Customer behavior analysis by gender, weekday, and shopping time.
-  - Analyzed product performance and rating patterns.
+  - Analysed product performance and rating patterns.
 - **SQL Techniques**:  
   Grouping, aggregation, conditional logic (`CASE`), feature extraction from dates.
 
